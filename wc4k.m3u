@@ -1,7 +1,5 @@
 #EXTM3U
 
-#For Thai Dream Box VIP Member Only  (*^_^*)
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="World Cup 4K1", World Cup 4K 
 http://servicepro4.shop:80/live/541TCPJH944LZD4/p2OiYnzxni/364461.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="World Cup 4K1", World Cup 4K 
@@ -384,8 +382,3 @@ http://185.80.197.39/play/live.php?mac=00:1B:79:33:51:27&stream=2095898&extensio
 http://185.80.197.39/play/live.php?mac=00:1B:79:34:00:91&stream=2095898&extension=ts
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115" group-title="World Cup 4K4", Now Sport 40 UHD
 http://185.80.197.39/play/live.php?mac=00:1B:79:F0:62:1A&stream=2095898&extension=ts
-
-
-
-
-
