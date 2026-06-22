@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",###### RELAX 4K ######
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505556&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX TURKEY 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505563&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX ICELAND 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505558&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX MOROCCO 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505557&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX TROPICAL BEACH 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505576&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX THE OCEAN 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505575&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX STARDUST 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505574&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX SNOW WINTER 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505573&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX FOREST 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505572&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX FLOWER 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505571&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX EARTH NATURE 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505570&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX NATURE RELAXATION 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505569&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX MORNING RELAXING 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505568&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505567&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX EUROPE TOWNS 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505566&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX FOREST AMERICAN 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505565&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX VIETNAM 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505564&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX SWITZERLAND 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505562&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX ITALY 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505561&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX AUSTRALIA 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505560&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX NORWAY 4K
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1505559&extension=ts
