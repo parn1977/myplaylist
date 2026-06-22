@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZDF.png" group-title="WORLD CUP 2026 VIP",WC| ZDF FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARD.png" group-title="WORLD CUP 2026 VIP",WC| ARD 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SERVUS.png" group-title="WORLD CUP 2026 VIP",WC| SERVUS TV FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SRF.png" group-title="WORLD CUP 2026 VIP",WC| SRF 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORF1.png" group-title="WORLD CUP 2026 VIP",WC| ORF 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090211&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORFSPORT.png" group-title="WORLD CUP 2026 VIP",WC| ORF SPORT FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090210&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090209&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090208&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090207&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090206&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090205&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090204&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090203&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090202&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1.png" group-title="WORLD CUP 2026 VIP",WC| NPO 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090201&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VRT1.png" group-title="WORLD CUP 2026 VIP",WC| VRT 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090200&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RAIUNO.png" group-title="WORLD CUP 2026 VIP",WC| RAI 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090199&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV + PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090198&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 1 PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090197&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 2 PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090196&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 3 PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090195&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 4 PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090194&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 5 PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090193&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 6 PT HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090192&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/CTSPORT.png" group-title="WORLD CUP 2026 VIP",WC| CT SPORT FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090191&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/BHT1.png" group-title="WORLD CUP 2026 VIP",WC| BHT 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090190&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/HRT2.png" group-title="WORLD CUP 2026 VIP",WC| HRT 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090189&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/LA1.png" group-title="WORLD CUP 2026 VIP",WC| LA 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090188&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/LA2.png" group-title="WORLD CUP 2026 VIP",WC| LA 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090187&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/MATHGR.png" group-title="WORLD CUP 2026 VIP",WC| MATH GR FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090186&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERT1.png" group-title="WORLD CUP 2026 VIP",WC| ERT 1 GR FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090185&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERT2.png" group-title="WORLD CUP 2026 VIP",WC| ERT 2 GR FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090184&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERT3.png" group-title="WORLD CUP 2026 VIP",WC| ERT 3 GR FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090183&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERTSPORT2.png" group-title="WORLD CUP 2026 VIP",WC| ERT SPORT 2 GR FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090182&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TRT1.png" group-title="WORLD CUP 2026 VIP",WC| TRT 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090181&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TRTSPORT.png" group-title="WORLD CUP 2026 VIP",WC| TRT SPORT FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090180&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORTM.png" group-title="WORLD CUP 2026 VIP",WC| ORTM FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090179&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090178&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090177&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 3 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090176&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 4 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090175&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090174&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090173&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 3 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090172&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 4 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090171&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RSILA2.png" group-title="WORLD CUP 2026 VIP",WC| RSI LA 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090170&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TVP1.png" group-title="WORLD CUP 2026 VIP",WC| TVP 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090169&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TVPSPORT.png" group-title="WORLD CUP 2026 VIP",WC| TVP SPORT FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090168&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ENTVALGERIA.png" group-title="WORLD CUP 2026 VIP",WC| ENTV ALGERIA FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090167&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARRYADIATNT.png" group-title="WORLD CUP 2026 VIP",WC| ARRYADIA TNT
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2090166&extension=ts

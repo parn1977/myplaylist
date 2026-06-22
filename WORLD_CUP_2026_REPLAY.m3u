@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY INFO ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085222&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 1 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085221&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 2 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085220&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 3 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085219&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 4 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085218&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 5 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085217&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 6 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 7 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 8 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 9 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 10 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 11 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085211&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 12 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085210&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 13 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085209&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 14 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085208&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 15 ᴴᴰ
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2085207&extension=ts

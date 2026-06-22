@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="WC| WORLD CRICKET",##### WORLD CRICKET #####
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104683&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png" group-title="WC| WORLD CRICKET",CR| IPL 2026 CHANNEL 1
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2047231&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png" group-title="WC| WORLD CRICKET",CR| IPL 2026 CHANNEL 2
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2047230&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png" group-title="WC| WORLD CRICKET",CR| IPL 2026 CHANNEL 3
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=2047229&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104670.png" group-title="WC| WORLD CRICKET",SPORTS| ASTRO CRICKET HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104670&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104671.png" group-title="WC| WORLD CRICKET",SPORTS| SONY SIX HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104671&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104672.png" group-title="WC| WORLD CRICKET",SPORTS| STAR SPORTS 1 HINDI HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104672&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104673.png" group-title="WC| WORLD CRICKET",SPORTS| STAR SPORTS 1 ENGLISH HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104673&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104674.png" group-title="WC| WORLD CRICKET",SPORTS| STAR SPORTS 2 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104674&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104675.png" group-title="WC| WORLD CRICKET",SPORTS| STAR SPORTS 3
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104675&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104676.png" group-title="WC| WORLD CRICKET",SPORTS| SPORTS 18 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104676&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WILLOW-CRICKET-EXTRA.png" group-title="WC| WORLD CRICKET",US| WILLOW CRICKET EXTRA
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1142110&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104677.png" group-title="WC| WORLD CRICKET",US| WILLOW CRICKET
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104677&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1425812.png" group-title="WC| WORLD CRICKET",CA| ATN CRICKET PLUS
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1425812&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104678.png" group-title="WC| WORLD CRICKET",AU| FOX CRICKET HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104678&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104668.png" group-title="WC| WORLD CRICKET",UK| SKY SPORTS CRICKET HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104668&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png" group-title="WC| WORLD CRICKET",UK| SUPERSPORT CRICKET HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104669&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104679.png" group-title="WC| WORLD CRICKET",NZ| SKY SPORT 1 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104679&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1127566.png" group-title="WC| WORLD CRICKET",NZ| SKY SPORT 3 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1127566&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104680.png" group-title="WC| WORLD CRICKET",NZ| SKY SPORT 4 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1104680&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106878.png" group-title="WC| WORLD CRICKET",PK| TENS SPORTS
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106878&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106883.png" group-title="WC| WORLD CRICKET",PK| A - SPORTS HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106883&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106884.png" group-title="WC| WORLD CRICKET",PK| PTV SPORTS FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106884&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106886.png" group-title="WC| WORLD CRICKET",PK| GEO SUPER
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106886&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png" group-title="WC| WORLD CRICKET",AR| STARZPLAY / CRLIFE 2 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106876&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png" group-title="WC| WORLD CRICKET",AR| STARZPLAY / CRLIFE 1 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106877&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZPLAY.png" group-title="WC| WORLD CRICKET",AR| STARZPLAY / CRLIFE 1 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1109344&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZPLAY.png" group-title="WC| WORLD CRICKET",AR| STARZPLAY / CRLIFE 2 FHD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1109345&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1110614.png" group-title="WC| WORLD CRICKET",SG| HUB SPORTS 3 HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1110614&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1127572.png" group-title="WC| WORLD CRICKET",AFG| RTA SPORTS HD
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1127572&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106879.png" group-title="WC| WORLD CRICKET",CRB| FLOW SPORTS
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106879&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1127570.png" group-title="WC| WORLD CRICKET",CRB| RUSH PLUS
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1127570&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1127568.png" group-title="WC| WORLD CRICKET",CRB| RUSH SPORT
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1127568&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106880.png" group-title="WC| WORLD CRICKET",CRB| SPORTSMAX
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106880&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1106881.png" group-title="WC| WORLD CRICKET",CRB| SPORTSMAX 2
+http://185.80.197.45:80/play/live.php?mac=00:1B:79:39:05:52&stream=1106881&extension=ts
